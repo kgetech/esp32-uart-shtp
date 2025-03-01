@@ -1,0 +1,3 @@
+[submodule "sh2-esp32"]
+	path = sh2-esp32
+	url = https://github.com/kgetech/sh2-esp32.git
